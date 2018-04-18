@@ -190,4 +190,5 @@ askProceed
 
 # generate crypto-material
 generateCerts
+mkdir channel-artifacts
 generateChannelArtifacts
